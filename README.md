@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stablejoy
-- 👀 I’m inspired by Nix packaging for its declarative approach, aiming to simplify software management.
+- 👀 I’m inspired by Nix packaging and education
 - 🌱 I’m currently learning all Nix, NixOS
 - 💞️ I’m looking to collaborate on Nix
 - 📫 How to reach me https://twitter.com/stablejoy
