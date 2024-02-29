@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @stablejoy
+- 👋 Hi, I’m Domagoj Miskovic @stablejoy
 - 👀 I’m inspired by Nix, Haskell, education, empowering others
-- 🌱 I’m currently learning all Nix and functional programming. I'd like to learn about green computing
+- 🌱 I’m always learning Nix and functional programming. 
 - 💞️ I’m looking to collaborate on Nix
 - 📫 How to reach me https://twitter.com/stablejoy
 - 😄 Pronouns: He
