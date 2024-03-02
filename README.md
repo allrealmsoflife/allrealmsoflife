@@ -2,7 +2,7 @@
 - 👀 I’m inspired by Nix, Haskell, education, empowering others
 - 🌱 I’m always learning Nix and functional programming. 
 - 💞️ I’m looking to collaborate on Nix
-- 📫 How to reach me https://twitter.com/stablejoy
+- 📫 How to reach me @stablejoy:matrix.org
 - 😄 Pronouns: He
 - ⚡ Fun fact: concert guitarist, teacher, composer
 
