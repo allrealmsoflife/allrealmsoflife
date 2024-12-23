@@ -1,13 +1,9 @@
-- 👋 Hi, I’m Domagoj Miskovic @stablejoy
+- 👋 Hi, I’m Domagoj Miskovic @allrealmsoflife
 - 👀 I’m inspired by Nix, Haskell, denotational design, education, empowering others
-- I stream about Nix on youtube.com/@nixosdiscovery
+- I stream about Nix and functional programming on youtube.com/@boshkarin
 - 🌱 I’m always learning Nix and functional programming. 
-- 💞️ I’m looking to collaborate on Nix
-- 📫 How to reach me @stablejoy:matrix.org
-- 😄 Pronouns: He
-- ⚡ Fun fact: concert guitarist, teacher, composer, artist, trying longboard dancing
 
 <!---
-stablejoy/stablejoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+allrealmsoflife/allrealmsoflife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
